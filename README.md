@@ -1,7 +1,8 @@
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://utsav2929.io)
 <h1 align="center">Hi 👋, I'm Utsav Mandhani</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&f=1&nofb=1&ipt=4aabfe2460102133b2700bce36ab9ce45bdd861f50a280493f2fc23fa1f195b1&ipo=images"/>
+<img align="left" alt="Coding" width="500" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&f=1&nofb=1&ipt=4aabfe2460102133b2700bce36ab9ce45bdd861f50a280493f2fc23fa1f195b1&ipo=images"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav2929&label=Profile%20views&color=0e75b6&style=flat" alt="utsav2929" /> </p>
 
