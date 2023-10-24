@@ -44,7 +44,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="40" height="40"/>
 </p>
+<div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utsav2929&theme=2077)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Utsav2929&theme=2077) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Utsav2929l&theme=2077) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utsav2929&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakkPatil&theme=2077)
+
+</div>
 <!-- Featured Projects -->
 <h3 align="left">Featured Projects:</h3>
 
@@ -70,3 +77,4 @@
 <p align="center">
   <img alt="Coding" style="width: 100%;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif&f=1&nofb=1&ipt=4aabfe2460102133b2700bce36ab9ce45bdd861f50a280493f2fc23fa1f195b1&ipo=images"/>
 </p>
+
