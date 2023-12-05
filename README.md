@@ -24,7 +24,7 @@
 <!-- Social and Contact Info -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your_username" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your_username" alt="your_username" /></a>
+  <a href="https://www.linkedin.com/in/utsav-mandhani/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/utsav-mandhani/" alt="your_username" /></a>
 </p>
 
 <!-- Essential Skills -->
