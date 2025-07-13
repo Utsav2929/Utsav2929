@@ -60,7 +60,7 @@
 
 <!-- Project 1: Travel Talk -->
 <p align="left">
-  <strong><a href="https://example.com/travel-talk" target="_blank">Travel Talk</a></strong><br>
+  <strong>Travel Talk</strong><br>
   Travel Talk is a MERN stack-based social media platform designed for users to share their travel experiences. The platform allows users to collaborate with others, providing a vibrant community for travelers. Exciting features include the ability to create, update, delete, and like posts. Moreover, the platform includes post details and recommendations section, enhanced by Google authentication for added security.
   Travel Talk fosters connections between users through its chat functionality, where they can send friend requests and accept them. The chat feature is powered by Socket.io, ensuring a seamless and interactive user experience. To store chat messages and user information, MongoDB is used as the database.
   The project incorporates robust security measures, with password encryption and decryption handled by bcrypt.js. This ensures that user passwords remain safe and protected throughout their interactions on the platform.
@@ -68,7 +68,7 @@
 
 <!-- Project 2: Society Management -->
 <p align="left">
-  <strong><a href="https://example.com/society-management" target="_blank">Society Management</a></strong><br>
+  <strong>Society Management</strong><br>
   Society Management is a collaborative team project involving five individuals who worked together to develop a comprehensive system for efficiently managing societies. The platform provides all essential features necessary for effective society management, including an announcement section, contact facility, bills section, expenditure tracking, funds management, and a complaint section.
   To build this system, the team opted for the MERN stack, which comprises MongoDB, Express.js, React.js, and Node.js. Additionally, We integrated Sanity as the CMS (Content Management System), empowering the admin to effortlessly manage and update information across the platform. MongoDB was chosen as the database to securely store user data, ensuring the privacy and integrity of the society members' information.
   The Society Management project aims to streamline society-related processes, improve communication, and enhance overall efficiency in managing day-to-day tasks and operations within a society or community.
